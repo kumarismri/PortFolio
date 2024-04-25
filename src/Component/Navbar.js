@@ -29,7 +29,7 @@ const Home = () => {
                 </div>
                 <div className="nav-inner-ele">
                   <Link to="#project" className="link">
-                    project
+                    Project
                   </Link>
                 </div>
                 <div className="nav-inner-ele">
@@ -39,7 +39,7 @@ const Home = () => {
                 </div>
                 <div className="nav-inner-ele">
                   <Link to="#contact" className="link">
-                    Contact Us
+                    Contact us
                   </Link>
                 </div>
               </div>

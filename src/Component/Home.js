@@ -8,13 +8,13 @@ const Home = () => {
             <>
             <div className='home-container'> 
                 <div className='candidate-name'>
-                        <p style={{color:"orange",fontSize:"49px", fontWeight:"500px"}}><b>Hi, I am Smriti Kumari</b></p>              
+                        <p style={{color:"orange",fontSize:"45px", fontWeight:"500"}}><b>Hi, I am Smriti Kumari</b></p>              
                         <h1 style={{color:'white'}}><b>A Front-end Developer</b></h1>
                         <br/>
                         <br/>
                         <p className='home-p3'>Get ready to turn ideas in to reality </p>
-                        <button>Hire Me</button>
-                        <button>Get Resume</button>
+                        <button className='hire-me-btn'>Hire Me</button>
+                        <button className='get-resume-btn'>Get Resume</button>
                 </div>  
                 <div>
                     <img src="./image/myimg1.png" height="650px" />
